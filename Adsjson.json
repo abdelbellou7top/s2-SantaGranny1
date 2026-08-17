@@ -1,0 +1,31 @@
+{
+  "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+  "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+  "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+  "admob_rewarded": "ca-app-pub-3940256099942544/5224354917",
+  "admob_app_open": "ca-app-pub-3940256099942544/9257395921",
+
+  "banner_activation": "true",
+
+  "gameplay_ads_mode": "aggressive",
+  "min_time_before_gameplay_ads": "60",
+  "min_deaths_before_ads": "2",
+
+  "max_count_ads": "5",
+
+  "our_ads1_activation": "true",
+  "our_ads1_image_url": "https://raw.githubusercontent.com/medidjuo/ADS_icons/refs/heads/main/Elsa%20small%20inter%20AD.png",
+  "our_ads1_link_url": "https://play.google.com/store/apps/details?id=com.elsaPrincess.frozenScary",
+
+  "our_ads2_activation": "true",
+  "our_ads2_image_url": "https://raw.githubusercontent.com/medidjuo/ADS_icons/refs/heads/main/ELSA%20AD1.png",
+  "our_ads2_link_url": "https://play.google.com/store/apps/details?id=com.elsaPrincess.frozenScary",
+
+  "our_ads3_activation": "true",
+  "our_ads3_image_url": "https://raw.githubusercontent.com/medidjuo/ADS_icons/refs/heads/main/ELSA%20AD2.png",
+  "our_ads3_link_url": "https://play.google.com/store/apps/details?id=com.elsaPrincess.frozenScary",
+
+  "our_ads_inter_activation": "true",
+  "our_ads_inter_image_url": "https://raw.githubusercontent.com/medidjuo/ADS_icons/refs/heads/main/ELSA%20inter%20AD.png",
+  "our_ads_inter_link_url": "https://play.google.com/store/apps/details?id=com.elsaPrincess.frozenScary"
+}
