@@ -5,13 +5,13 @@
   "admob_rewarded": "ca-app-pub-3940256099942544/5224354917",
   "admob_app_open": "ca-app-pub-3940256099942544/9257395921",
 
-  "banner_activation": "true",
+  "banner_activation": "false",
 
   "gameplay_ads_mode": "aggressive",
-  "min_time_before_gameplay_ads": "60",
+  "min_time_before_gameplay_ads": "600",
   "min_deaths_before_ads": "2",
 
-  "max_count_ads": "5",
+  "max_count_ads": "500",
 
   "our_ads1_activation": "false",
   "our_ads1_image_url": "https://raw.githubusercontent.com/medidjuo/ADS_icons/refs/heads/main/Elsa%20small%20inter%20AD.png",
